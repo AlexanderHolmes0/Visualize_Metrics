@@ -16,7 +16,7 @@ This GitHub repository provides an R toolkit for visualizing the effects of conf
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/confusion-matrix-roc-visualization.git
+   git clone https://github.com/AlexanderHolmes0/Visualize_Metrics.git
    cd confusion-matrix-roc-visualization
    ```
 

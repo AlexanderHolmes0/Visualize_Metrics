@@ -23,7 +23,7 @@ This GitHub repository provides an R toolkit for visualizing the effects of conf
 2. **Install Required Packages:**
    Open R and install the required packages using:
    ```R
-   install.packages(c("ggplot2", "pROC", "caret"))
+   install.packages(c("shiny", "pROC", "caret"))
    ```
 
 3. **Run the R Script:**

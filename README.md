@@ -12,7 +12,7 @@ I always found it mysterious how each quantity influences the various metrics as
 
 - **Classification Metrics:** Calculate and visualize essential classification metrics such as accuracy, precision, recall, and F1 score. Understand how these metrics are influenced by the confusion matrix.
 
-- **ROC Curve Analysis:** Visualize the ROC curve to assess the trade-off between sensitivity and specificity. Determine the model's ability to distinguish between classes at various threshold levels.
+- **ROC Curve Analysis:** Visualize the ROC curve to assess the trade-off between sensitivity (True Positive Rate) and 1 - specificity (False Positive Rate). Determine the model's ability to distinguish between classes at various threshold levels.
 
 ## Usage
 

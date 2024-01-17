@@ -19,7 +19,7 @@ I always found it mysterious how each quantity influences the various metrics as
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/AlexanderHolmes0/Visualize_Metrics.git
-   cd confusion-matrix-roc-visualization
+   cd Visualize_Metrics
    ```
 
 2. **Install Required Packages:**

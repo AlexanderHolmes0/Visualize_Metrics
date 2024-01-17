@@ -49,6 +49,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- Special thanks to contributors and open-source libraries that made this toolkit possible. The confusion matrix plotting function was originally found [here](https://stackoverflow.com/questions/23891140/r-how-to-visualize-confusion-matrix-using-the-caret-packagehttps://stackoverflow.com/questions/23891140/r-how-to-visualize-confusion-matrix-using-the-caret-package)
+- Special thanks to contributors and open-source libraries that made this toolkit possible. The confusion matrix plotting function was originally found [here](https://stackoverflow.com/questions/23891140/r-how-to-visualize-confusion-matrix-using-the-caret-package)
 
 Happy visualizing in R!

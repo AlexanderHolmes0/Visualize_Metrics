@@ -39,7 +39,7 @@ I always found it mysterious how each quantity influences the various metrics as
 
 ## Example
 
-Check out the [Helpers.R](Helperr.R) file for the function that generates the matrix. Use it to understand how the visualization toolkit works.
+Check out the [Helpers.R](Visualize_Metrics/Helpers.R) file for the function that generates the matrix. Use it to understand how the visualization toolkit works.
 
 ## Contributing
 

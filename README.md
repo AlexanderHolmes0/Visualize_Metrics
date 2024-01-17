@@ -1,8 +1,10 @@
 # Confusion Matrix and ROC Curve Visualization 
 
-## Overview
+## Motivation
 
-This GitHub repository provides an R toolkit for visualizing the effects of confusion matrices on classification metrics, accompanied by the visualization of Receiver Operating Characteristic (ROC) curves. Understanding the performance of classification models is crucial, and these visualizations offer insights into the model's behavior.
+This GitHub repository provides an R Shiny app for visualizing the effects of confusion matrices on classification metrics, accompanied by the visualization of Receiver Operating Characteristic (ROC) curves. Understanding the performance of classification models is crucial, and these visualizations offer insights into the model's behavior. 
+
+I always found it mysterious how each quantity influences the various metrics associated with classification. Use this app to untangle your doubts and fears surrounding these metrics.
 
 ## Features
 
@@ -49,6 +51,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- Special thanks to contributors and open-source libraries that made this toolkit possible. The confusion matrix plotting function was originally found [here](https://stackoverflow.com/questions/23891140/r-how-to-visualize-confusion-matrix-using-the-caret-package)
+- Special thanks to contributors and open-source libraries that made this app possible. The confusion matrix plotting function was originally found [here](https://stackoverflow.com/questions/23891140/r-how-to-visualize-confusion-matrix-using-the-caret-package)
 
-Happy visualizing in R!
+Happy visualizing metrics in R!
